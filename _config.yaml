@@ -5,4 +5,5 @@ plugins:
 title: CIPTA KYUEM
 description: Homepage for CIPTA (Create, Inspire, Progress Together for All) at KYUEM
 
+repository: https://github.com/MagusWyvern/ciptaky.git
 show_downloads: false
