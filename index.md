@@ -5,26 +5,31 @@ To our website! From time to time news and events will be posted here, and you c
 ## What's CIPTA about?
 
 CIPTA Society comprises of 4 niche divisions: 
-1. Robotics 
-2. Cybersecurity [Page link](cybersecurity-dept.md)
-3. Data Science
-4. Recreational Activities [Page link](recreational-dept.md) 
+1. [Robotics](./pages/robotics.md)
+2. [Cybersecurity](./pages/cybersecurity.md)
+3. [Data Science](./pages/data-science.md)
+4. [Recreational Activities](./pages/recreational-activities.md) 
 
 - Focuses purely on hands-on type of events / workshops each semester
 
 - Allow students (outside this club’s committee) to become helpers, and our committees will be teaching them some skills before the event starts.
 
+# Members
+
+Who is a part of CIPTA committee list? We annually interview and select candidates that would be a great addition to our list of [members](./pages/members.md)!
+
 # Planned/Future Workshops
 
 | Managing Division | Workshop Name | Planned Date |
 | ----------------- | ------------- | ------------ |
-| Robotics | Hands-on Robotics Workshop | September 2025 |
-| Data Science | Data Science Data Wrangling Workshop | 2026 |
+| Data Science | Data Wrangling Workshop | 6-11th January 2026 |
 
 # Past Activities
 
-1. Pongal Festival Celebration
-2. Intro2Linux Workshop
+Below are a list of our past activities!
+
+1. [Pongal Festival Celebration](./pages/activities-2025/pongal-festival-celebration.md)
+2. [Intro2Linux Workshop](./pages/activities-2025/intro2linux-workshop.md)
 
 
 # Links
