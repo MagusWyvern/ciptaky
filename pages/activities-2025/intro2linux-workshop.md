@@ -3,6 +3,7 @@
 # Intro2Linux Workshop
 
 Event date: 21-22nd June 2025
+Venue: Lecture Theatre 1, KYUEM
 
 The "Introduction to Linux" workshop is a two-day, hands-on event designed specifically for KYUEM students to explore the fundamentals of the Linux operating system. 
 
