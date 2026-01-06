@@ -3,7 +3,8 @@
 # Data Wrangling Workshop
 
 Event date: 30th March 2025
-Venue: 
+
+Venue: Sekolah Sri Tenby, Eco Park
 
 > [!INFO]
 > Due to recent unexpected issues, the event date is shifted from January to March

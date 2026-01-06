@@ -3,6 +3,7 @@
 # Pongal Festival Celebration
 
 Event date: 17th January 2025
+
 Venue: SJK(T) Ladang Kerling
 
 Pongal is a traditional South Indian harvest festival, predominantly celebrated by the Tamil community, and observed annually in mid-January. It marks the end of the harvest season and serves as an expression of gratitude for agricultural abundance.
